@@ -16,7 +16,7 @@ This digital Pookalam was created during the Onam season using Python and the `j
 - **Center Piece**: A stylized traditional **Onattappan** (consisting of 3 brown clay pyramid structures) placed at the center of the design.
 
 ### Preview
-![My Pookalam](output/pookalam-preview.svg)
+![My Pookalam](output/pookalam.png)
 
 ### Features
 - Modular design architecture using custom coordinate points and polygons.
